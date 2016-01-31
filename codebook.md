@@ -25,4 +25,4 @@ in the new dataset.
 
 * A similar approach is taken with activity names through the activities variable.
 
-* mydata.mean is the final tidy data which contain the relevant averages required.  
+* tidydata.txt is the final tidy data which contain the relevant averages required.  
